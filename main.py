@@ -1,3 +1,7 @@
+'''
+Строка из 65 рандомных сиволов
+A string of 65 random characters
+'''
 import random
 
 start = True
