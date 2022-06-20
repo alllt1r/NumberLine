@@ -1,5 +1,7 @@
 # NumberLine
 
+main - A string of 65 random characters
+
 main2 - Two simple games
 
 main3 - Search for all possible combinations of letters and symbols of Latin and Cyrillic
